@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonOne" type="id" />
+    <item name="button_Two" type="id" />
+    <item name="editTextOne" type="id" />
+    <item name="editTextTextMultiLine" type="id" />
+</resources>
